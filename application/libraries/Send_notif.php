@@ -42,7 +42,7 @@ class Send_notif
 	function send_fcm($data_fcm=array(), $notif_fcm=array(), $target){
 		$url = 'https://fcm.googleapis.com/fcm/send';
 		
-		$server_key = 'AAAAA9vs-Sg:APA91bFXObmJi3DuyYg-Q8HPVN91HdejbSXQMSqSORd4BNQmvVS94-uxKc_mH1XJEoX6sEJ3Q2Z9kZJZdGmhEVHzuiPqe06cB03FvqI6kn0JI4EYoZ2yQLiU21K5Ufvd2llly5yCJu7U';
+		$server_key = '';
 					
 		$fields = array();
 		
