@@ -1,7 +1,7 @@
 "# icolor"
 
-- URL Dev : http://andtechnology.me/gts/
-- URL Live : http://cms.pesenaja.com/
+- URL Dev : http://dev.andtechnology.me/icolor
+- URL Live : https://icolor.id/apps/
 
 Component
 - CMS
